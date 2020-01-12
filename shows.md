@@ -1,0 +1,4 @@
+---
+layout: shows
+permalink: /shows/
+---
