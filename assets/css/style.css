@@ -92,6 +92,13 @@
  to   { opacity: 1; }
 }
 
+/* 2020-02-26-EP1.md - spotify player mobile responsive */
+
+@media (max-width: 767.98px) { .spotify-ep1{
+    width: 350px;
+} }
+
+/* 2020-02-26-EP1.md - spotify player mobile responsive */
 
 #elementaj {
       font-weight: 100;
@@ -196,10 +203,6 @@
     font-weight: 200;
     font-size: 16px;
 }
-
-@media (max-width: 767.98px) { .spotify-ep1{
-    width: 350px;
-} }
 
 
 
