@@ -2,7 +2,7 @@
 layout: post
 title: 'Cost of it All' 
 date:  '2020-01-18 13:00:00 -0400'
-categories: alternative rock post-punk
+categories: ['alternative rock', 'post-punk']
 ---
 
 <p class="publish-three">
