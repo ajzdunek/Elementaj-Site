@@ -240,7 +240,15 @@
 
 /* bandsintown */
 
+/* 04.04.2020 blog post */
+
 .my-container{
     margin:auto;
     width: 500px;    
 }
+
+@media (max-width: 767.98px) { .my-container{
+    width: 300px;
+} }
+
+/* 04.04.2020 blog post */
