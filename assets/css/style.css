@@ -294,3 +294,7 @@
  .lead{
     letter-spacing: 2px;
  }
+
+ @media (max-width: 767.98px) { #ep-one, .lead{
+    padding-top: 50px;
+} }
