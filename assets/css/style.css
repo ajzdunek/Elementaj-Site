@@ -44,8 +44,9 @@
 /* // Extra large devices (large desktops)
 // No media query since the extra-large breakpoint has no upper bound on its width */
 
+/* Old Jumbotron Code - might bring this back */
 
- #jumbotron-pic{
+ /* #jumbotron-pic{
     background-image: url("../images/elementaj-blur.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -56,12 +57,22 @@
     background-size: cover;
     min-height: 525px;
 
-    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation: fadein 2s; /* Firefox < 16 */
-     -ms-animation: fadein 2s; /* Internet Explorer */
-      -o-animation: fadein 2s; /* Opera < 12.1 */
-         animation: fadein 2s;
-}
+    -webkit-animation: fadein 2s; 
+    -moz-animation: fadein 2s; 
+    -ms-animation: fadein 2s; 
+    -o-animation: fadein 2s; 
+    animation: fadein 2s;
+} */
+
+/* Old Jumbotron Code - might bring this back */
+
+
+  
+  @media (pointer: coarse) and (hover: none) {
+    header video {
+      display: none;
+    }
+  }
 
 @keyframes fadein {
  from { opacity: 0; }
@@ -252,3 +263,34 @@
 } }
 
 /* 04.04.2020 blog post */
+.jumbotron {
+    position: relative;
+    overflow: hidden;
+    background-color:black;
+    min-height: 80vh;
+   
+  }
+  .jumbotron video {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    width:100%;
+    height:100%;
+    /*  object-fit is not supported on IE  */
+    object-fit: cover;
+    opacity:0.7;
+  }
+  .jumbotron .container {
+    z-index: 2;
+    position: relative;
+  }
+
+ #ep-one{
+     font-weight: 100;
+     font-size: 90px;
+     letter-spacing: 20px;
+ }
+
+ .lead{
+    letter-spacing: 2px;
+ }
