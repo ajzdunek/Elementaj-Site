@@ -298,3 +298,8 @@
  @media (max-width: 767.98px) { #ep-one, .lead{
     padding-top: 50px;
 } }
+
+.home{
+    font-weight: 200;
+    letter-spacing: 4px;
+}
