@@ -16,3 +16,5 @@ $(function () {
 
 }
 window.onload = deferVideo;
+
+$(function() { $('body').hide().show(); });
