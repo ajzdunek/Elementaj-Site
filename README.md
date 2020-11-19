@@ -1,5 +1,5 @@
 # Elementaj-site
-Creating a website for my current band Elementaj.
+Created a website for my band Elementaj.
 
 ## Built With
 
@@ -12,6 +12,31 @@ Creating a website for my current band Elementaj.
 - Jekyll (Implementing the Blog Feature)
 - MailChimp
 
+## Screenshots
+
+![picture](assets/project-screenshots/home-page-one.png)
+Home Page Part One
+
+![picture](assets/project-screenshots/home-page-two.png)
+Home Page Part Two
+
+![picture](assets/project-screenshots/home-page-three.png)
+Home Page Part Three
+
+![picture](assets/project-screenshots/home-page-four.png)
+Home Page Part Four
+
+![picture](assets/project-screenshots/shows.png)
+Shows Page
+
+![picture](assets/project-screenshots/music.png)
+Music Page
+
+![picture](assets/project-screenshots/videos.png)
+Videos Page
+
+
 ## Author
 
 **Andrew Zdunek** (https://github.com/ajzdunek)
+
