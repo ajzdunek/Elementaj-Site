@@ -39,7 +39,7 @@ Videos Page
 
 We ended up releasing a four song EP at the end of February 2020 and was on James VanOsdol's show demo312 on Chicago's 101 WKQX as well as being on a few Spotify playlists and we even got a small track review. 
 
-You can read all about it here → [Singles Review - American Pancake Music Blog] (https://www.americanpancake.com/2020/04/chicagos-elementaj-and-raw-post-punk-of.html)
+You can read all about it here → (https://www.americanpancake.com/2020/04/chicagos-elementaj-and-raw-post-punk-of.html)
 
 ## Author
 
